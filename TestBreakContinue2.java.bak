@@ -1,12 +1,12 @@
 package module07_08;
 /*
- * è¿´åœˆæ­é…continueèˆ‡æ¨™ç±¤çš„ç¯„ä¾‹èªªæ˜
+ * °j°é·f°tcontinue»P¼ĞÅÒªº½d¨Ò»¡©ú
  */
 public class TestBreakContinue2 {
 
 	public static void main(String[] args) {
 		int i = 1;
-		int j;
+		int j = 0;
 
 		outer: 
 			while (i <= 3) {
