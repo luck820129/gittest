@@ -8,8 +8,13 @@ public class TestBreakContinue2 {
 		int i = 1;
 		int j;
 		int c = 1
+<<<<<<< HEAD
 		String a ;
 		String b;
+=======
+		String e ;
+		String f;
+>>>>>>> dog1
 
 		outer: 
 			while (i <= 3) {

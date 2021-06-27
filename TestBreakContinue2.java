@@ -8,8 +8,10 @@ public class TestBreakContinue2 {
 		int i = 1;
 		int j;
 		int c = 1
+
 		String a ;
 		String b;
+
 
 		outer: 
 			while (i <= 3) {
