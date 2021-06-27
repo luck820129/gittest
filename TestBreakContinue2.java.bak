@@ -7,7 +7,9 @@ public class TestBreakContinue2 {
 	public static void main(String[] args) {
 		int i = 1;
 		int j;
-		int c = 1;
+		int c = 1
+		String a ;
+		String b;
 
 		outer: 
 			while (i <= 3) {
